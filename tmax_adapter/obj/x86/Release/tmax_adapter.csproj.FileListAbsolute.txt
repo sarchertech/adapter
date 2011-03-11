@@ -1,0 +1,12 @@
+C:\Documents and Settings\learc83\my documents\visual studio 2010\Projects\tmax_adapter\tmax_adapter\bin\Release\tmax_adapter.exe.manifest
+C:\Documents and Settings\learc83\my documents\visual studio 2010\Projects\tmax_adapter\tmax_adapter\bin\Release\tmax_adapter.application
+C:\Documents and Settings\learc83\my documents\visual studio 2010\Projects\tmax_adapter\tmax_adapter\bin\Release\tmax_adapter.exe
+C:\Documents and Settings\learc83\my documents\visual studio 2010\Projects\tmax_adapter\tmax_adapter\bin\Release\tmax_adapter.pdb
+C:\Documents and Settings\learc83\my documents\visual studio 2010\Projects\tmax_adapter\tmax_adapter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\learc83\my documents\visual studio 2010\Projects\tmax_adapter\tmax_adapter\obj\x86\Release\tmax_adapter.ProjectInstaller.resources
+C:\Documents and Settings\learc83\my documents\visual studio 2010\Projects\tmax_adapter\tmax_adapter\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\learc83\my documents\visual studio 2010\Projects\tmax_adapter\tmax_adapter\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\learc83\my documents\visual studio 2010\Projects\tmax_adapter\tmax_adapter\obj\x86\Release\tmax_adapter.exe.manifest
+C:\Documents and Settings\learc83\my documents\visual studio 2010\Projects\tmax_adapter\tmax_adapter\obj\x86\Release\tmax_adapter.application
+C:\Documents and Settings\learc83\my documents\visual studio 2010\Projects\tmax_adapter\tmax_adapter\obj\x86\Release\tmax_adapter.exe
+C:\Documents and Settings\learc83\my documents\visual studio 2010\Projects\tmax_adapter\tmax_adapter\obj\x86\Release\tmax_adapter.pdb
